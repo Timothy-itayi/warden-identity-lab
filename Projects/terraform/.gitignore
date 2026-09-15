@@ -1,0 +1,16 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Variables/secrets
+terraform.tfvars
+*.auto.tfvars
+.env
+
+# macOS
+.DS_Store
+
+# Local evidence that contains sensitive IDs
+private-evidence/
