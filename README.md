@@ -12,4 +12,3 @@ Core demo:
 5. create a Freshdesk ticket through an Action Group email
 6. investigate and resolve the account safely
 7. destroy the Azure lab when finished
-```
